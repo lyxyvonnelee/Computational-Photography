@@ -7,7 +7,8 @@ The following is an outline of what I have done in this course.
 ### What is Computational Photography?
 #### from a hardware's perspective
 - Camera design that takes computation into account
-- More elaborate image manipulation and computation
+- More elaborate image manipulation and computation  
+
 #### from a software's perspective
 - Definition 1: The use of photographic imagery to create graphics content
 - Definition 2: The use of computational techniques to overcome limitations of conventional photography  
