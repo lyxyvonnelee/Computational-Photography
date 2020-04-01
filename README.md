@@ -14,7 +14,8 @@ The following is an outline of what I have done in this course.
 <br/>
 
 ## Course description
-- Computational photography is an emerging field that aims to combine software and hardware with computational image capture, processing and manipulation techniques to overcome the limitations of conventional digital cameras, so that the capabilities of digital photos can be to enhanced or extended. In this course, we will study ways of manipulating and combining photographs and videos to produce new and better pictures, panoramas, 3D models, animations, etc.
+- Computational photography is an emerging field that aims to combine software and hardware with computational image capture, processing and manipulation techniques to overcome the limitations of conventional digital cameras, so that the capabilities of digital photos can be to enhanced or extended. In this course, we will study ways of manipulating and combining photographs and videos to produce new and better pictures, panoramas, 3D models, animations, etc.  
+
 ## Course overview
 1. Digital image, color space, filtering and Fourier Transform
 2. Poisson image editing and interactive photomontage
