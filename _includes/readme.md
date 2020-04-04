@@ -29,4 +29,8 @@ The following is an outline of what I have done in this course.
 9. Recognising panoramas and multiview panorama stitching
 10. Camera model and structure from motion
 11. SLAM and AR
-12. Single/Multi-view 3D reconstruction
+12. Single/Multi-view 3D reconstruction  
+
+# Labs
+------  
+</br>
